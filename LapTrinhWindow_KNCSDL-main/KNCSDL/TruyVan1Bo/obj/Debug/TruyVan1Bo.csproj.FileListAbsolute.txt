@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\bin\Debug\TruyVan1Bo.exe.config
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\bin\Debug\TruyVan1Bo.exe
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\bin\Debug\TruyVan1Bo.pdb
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.Form1.resources
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.exe
+C:\Users\ASUS\source\repos\KNCSDL\TruyVan1Bo\obj\Debug\TruyVan1Bo.pdb

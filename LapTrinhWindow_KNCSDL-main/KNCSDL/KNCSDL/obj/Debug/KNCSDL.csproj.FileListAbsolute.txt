@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\bin\Debug\KNCSDL.exe.config
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\bin\Debug\KNCSDL.exe
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\bin\Debug\KNCSDL.pdb
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.Form1.resources
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.exe
+C:\Users\ASUS\source\repos\KNCSDL\KNCSDL\obj\Debug\KNCSDL.pdb
