@@ -1,1 +1,2 @@
-# win-form
+- IDM: tăng tốc độ tải file, hỗ trợ tải lại file khi máy bị mất tín hiệu mạng </br>
+- Reset IDM : hỗ trợ kích hoạt lại IDM theo số ngày
